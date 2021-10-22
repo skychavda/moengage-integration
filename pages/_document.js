@@ -16,7 +16,7 @@ class MyDocument extends Document {
         <script dangerouslySetInnerHTML={{__html:`
           Moengage = moe({
             app_id:"V92LT2SQI9SZIEDQPP8ELRW4_DEBUG",
-            debug_logs: 0
+            debug_logs: 1
           });`}}>
         </script>
         </Head>
